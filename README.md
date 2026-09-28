@@ -30,6 +30,8 @@ Atualmente sou **estagiário** e possuo **5 anos de experiência profissional co
 
 Essa experiência despertou ainda mais meu interesse por tecnologia, automação e desenvolvimento de soluções, motivando minha evolução profissional na área de TI.
 
+Atualmente estou estudando `Banco de Dados` · `Redes` · `Infraestrutura` · `Segurança da Informação`.
+
 ---
 
 ## Áreas de interesse
@@ -92,9 +94,16 @@ Linux / Ubuntu (básico) · Git · GitHub · Excel / Office · TomTicket · Virt
 
 ---
 
-## Atualmente estudando
+## GitHub
 
-`Banco de Dados` · `Redes` · `Infraestrutura` · `Segurança da Informação`
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=l1wba&show_icons=true&include_all_commits=true&locale=pt-br" alt="Estatísticas"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l1wba&layout=compact&langs_count=8&locale=pt-br" alt="Linguagens mais usadas"/>
+
+<img src="https://streak-stats.demolab.com?user=l1wba&locale=pt_BR" alt="Sequência de contribuições de Luciano no GitHub"/>
+
+</div>
 
 ---
 
