@@ -1,78 +1,143 @@
-# 👋 Olá! Eu sou o Luciano Rocha
+<div align="center">
 
-🎓 Estudante de **Sistemas de Informação** na Universidade do Estado de Minas Gerais (UEMG) e também graduando em **Segurança da Informação** pela UniRitter.
+# Luciano Rocha
 
-Tenho interesse por tecnologia e estou em constante desenvolvimento, explorando principalmente as áreas de **Desenvolvimento de Software, Suporte Técnico, Infraestrutura e Segurança da Informação**.
+### Desenvolvedor em Formação · Sistemas de Informação · Segurança da Informação
 
-Atualmente, busco transformar conhecimento em prática por meio de **projetos, estudos e experiências profissionais**, desenvolvendo minhas habilidades técnicas e ampliando minha experiência na área de tecnologia.
+Estudante de tecnologia interessado em **Back-end, Full Stack, Banco de Dados, Infraestrutura e Segurança da Informação**.
 
-## 🚀 Sobre mim
+Atualmente sou **estagiário** e busco oportunidades como **Trainee ou Desenvolvedor Júnior**.
 
-Atualmente, possuo experiência prática com:
+<br>
 
-- 🛠️ Suporte técnico e atendimento a usuários;
-- 💻 Manutenção preventiva e corretiva de computadores e impressoras;
-- 🎫 Atendimento e acompanhamento de chamados de Help Desk;
-- 🌐 Manutenção e otimização de infraestrutura de redes locais;
-- 📊 Automação, organização e análise de planilhas com **Excel**;
-- 🐧 Utilização de sistemas **Linux**;
-- 🗄️ Conhecimentos em bancos de dados relacionais e SQL.
+<a href="https://www.linkedin.com/in/luciano-rocha31">
+  <img src="https://img.shields.io/badge/LinkedIn-Luciano%20Rocha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-Além da experiência técnica, também venho desenvolvendo habilidades relacionadas à **resolução de problemas, melhoria de processos, atendimento ao usuário e trabalho em equipe**.
+<a href="mailto:lucianorchporto@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-## 💻 Tecnologias e ferramentas
-
-### Linguagens e Banco de Dados
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,postgresql" />
-</p>
-
-Também possuo conhecimentos em **SQL e bancos de dados relacionais**.
-
-### Ferramentas e Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
-</p>
-
-Também possuo experiência ou familiaridade com:
-
-- Microsoft Excel;
-- Power BI;
-- Pacote Office.
-
-## 📚 Atualmente estudando
-
-- 🐍 **Python** e desenvolvimento de aplicações;
-- 🗄️ **PostgreSQL**, SQL e bancos de dados;
-- 💻 **Desenvolvimento de Software**;
-- 🔐 **Segurança da Informação**.
-
-## ⚡ Interesses
-
-Além da área de desenvolvimento e tecnologia da informação, também tenho grande interesse por **eletrônica e robótica**. Gosto de explorar como hardware e software podem trabalhar juntos para criar soluções e projetos tecnológicos.
-
-🎮 Também sou interessado em **jogos**, que fazem parte dos meus principais hobbies e despertam meu interesse por diferentes tecnologias, mecânicas e experiências digitais.
-
-## 🎯 Objetivos
-
-Meu objetivo é continuar evoluindo profissionalmente na área de tecnologia, aprofundando meus conhecimentos e desenvolvendo projetos que demonstrem minhas habilidades na prática.
-
-Tenho interesse em oportunidades que me permitam aprender, enfrentar novos desafios e contribuir para o desenvolvimento de soluções utilizando tecnologia.
-
-## 📂 Projetos
-
-Aqui você encontrará projetos desenvolvidos durante meus estudos e experiências de aprendizado.
-
-> 🚧 Esta seção será atualizada conforme novos projetos forem desenvolvidos e publicados.
-
-## 📫 Vamos conversar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luciano%20Rocha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-rocha31/)
-
-[![E-mail](https://img.shields.io/badge/E--mail-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucianorchporto@gmail.com)
+</div>
 
 ---
 
-⭐ **Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução no mundo da tecnologia!**
+## Sobre mim
+
+Atualmente cursando **Sistemas de Informação - UEMG** e **Segurança da Informação - UniRitter**, desenvolvendo experiência por meio de projetos próprios e acadêmicos.
+
+Atualmente sou **estagiário** e possuo **5 anos de experiência profissional com Excel e Pacote Office**, principalmente na utilização de fórmulas e funções para **automação de planilhas e geração de relatórios**.
+
+Essa experiência despertou ainda mais meu interesse por tecnologia, automação e desenvolvimento de soluções, motivando minha evolução profissional na área de TI.
+
+---
+
+## Áreas de interesse
+
+<div align="center">
+
+|        Área        | Foco                      |
+| :----------------: | ------------------------- |
+|    **Back-end**    | Python · Django · APIs    |
+|   **Full Stack**   | Desenvolvimento Web       |
+|    **Database**    | SQL · PostgreSQL · SQLite |
+| **Infrastructure** | Linux · Redes · Sistemas  |
+|    **Security**    | Segurança da Informação   |
+|   **Automation**   | Automação                 |
+
+</div>
+
+---
+
+## Tech Stack
+
+### Linguagens
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+</p>
+
+Python · JavaScript · C++ (básico)
+
+### Desenvolvimento
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" height="45" alt="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+</p>
+
+Django · React · Tkinter
+
+### Banco de Dados
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" alt="SQLite"/>
+</p>
+
+PostgreSQL · SQLite · SQL
+
+### Sistemas & Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="45" height="45" alt="Ubuntu"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+</p>
+
+Linux / Ubuntu (básico) · Git · GitHub · Excel / Office · TomTicket · VirtualBox
+
+---
+
+## Atualmente estudando
+
+`Banco de Dados` · `Redes` · `Infraestrutura` · `Segurança da Informação`
+
+---
+
+## Projetos
+
+**Desenvolvimento Web**
+
+Dois sites atualmente em desenvolvimento.
+
+**Sistema para empresa**
+
+Sistema com funcionalidades gerais, utilizando programação e banco de dados. O projeto principal está em repositório privado.
+
+---
+
+## Objetivos
+
+Aprofundar conhecimentos em **desenvolvimento, infraestrutura e Segurança da Informação**, enquanto continuo construindo projetos práticos.
+
+### Oportunidades
+
+`Trainee` · `Desenvolvedor Júnior` · `Helpdesk` · `Suporte` · `Infraestrutura`
+
+---
+
+## Contato
+
+<div align="center">
+
+<a href="mailto:lucianorchporto@gmail.com">
+  <img src="https://img.shields.io/badge/lucianorchporto%40gmail.com-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/luciano-rocha31">
+  <img src="https://img.shields.io/badge/Luciano%20Rocha-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=l1wba&style=flat-square&color=blue" alt="Profile views"/>
+
+</div>
