@@ -82,7 +82,7 @@ PostgreSQL · SQLite · SQL
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
 </p>
 
-Linux / Ubuntu (básico) · Git · GitHub · Excel / Office · TomTicket · VirtualBox
+Linux / Ubuntu · Git · GitHub · Excel / Office · TomTicket · VirtualBox
 
 ---
 
