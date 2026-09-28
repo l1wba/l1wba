@@ -10,14 +10,6 @@ Atualmente sou **estagiário** e busco oportunidades como **Trainee ou Desenvolv
 
 <br>
 
-<a href="https://www.linkedin.com/in/luciano-rocha31">
-  <img src="https://img.shields.io/badge/LinkedIn-Luciano%20Rocha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:lucianorchporto@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
 </div>
 
 ---
