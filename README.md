@@ -102,7 +102,9 @@ Sistema com funcionalidades gerais, utilizando programação e banco de dados. O
 
 Aprofundar conhecimentos em **desenvolvimento, infraestrutura e Segurança da Informação**, enquanto continuo construindo projetos práticos.
 
-### Oportunidades
+---
+
+## Oportunidades
 
 `Trainee` · `Desenvolvedor Júnior` · `Helpdesk` · `Suporte` · `Infraestrutura`
 
