@@ -6,7 +6,7 @@
 
 Estudante de tecnologia interessado em **Back-end, Full Stack, Banco de Dados, Infraestrutura e Segurança da Informação**.
 
-Atualmente sou **estagiário** e busco oportunidades como **Trainee ou Desenvolvedor Júnior**.
+Atualmente sou **estagiário** e busco oportunidades como **Trainee ou Júnior**.
 
 <br>
 
@@ -106,7 +106,7 @@ Aprofundar conhecimentos em **desenvolvimento, infraestrutura e Segurança da In
 
 ## Oportunidades
 
-`Trainee` · `Desenvolvedor Júnior` · `Helpdesk` · `Suporte` · `Infraestrutura`
+`Trainee` · `Desenvolvedor Júnior` · `Helpdesk` · `Suporte` · `Infraestrutura` · `Cybersegurança`
 
 ---
 
