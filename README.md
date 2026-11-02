@@ -5,7 +5,7 @@
 </td>
 <td width="60%" valign="middle">
 <h2><img src="assets/headings/about.svg" height="44" alt="Sobre mim"/></h2>
-<p>Sou <strong>estagiário</strong>, curso <strong>Sistemas de Informação - UEMG</strong> e <strong>Segurança da Informação - UniRitter</strong>, e busco oportunidades como <strong>Trainee ou Desenvolvedor Júnior</strong>.</p>
+<p>Meu nome é Luciano Rocha, atualmente sou <strong>estagiário</strong>, cursando <strong>Sistemas de Informação - UEMG</strong> e <strong>Segurança da Informação - UniRitter</strong>, e busco oportunidades como <strong>Trainee ou Desenvolvedor Júnior</strong>.</p>
 <p>Desenvolvo experiência por meio de projetos próprios e acadêmicos. Tenho <strong>5 anos de experiência profissional com Excel e Pacote Office</strong>, principalmente na automação de planilhas e geração de relatórios.</p>
 <p>Essa experiência despertou ainda mais meu interesse por tecnologia, automação e desenvolvimento de soluções, motivando minha evolução profissional na área de TI.</p>
 <p>Atualmente estou estudando <code>Banco de Dados</code> · <code>Redes</code> · <code>Infraestrutura</code> · <code>Segurança da Informação</code>.</p>
