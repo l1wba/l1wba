@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="1120" height="300" viewBox="0 0 1120 300">
+  <ns0:rect x="11" y="11" width="358" height="133" rx="12" fill="none" stroke="#2C52B3" stroke-width="2" />
+  <ns0:text x="190.0" y="73" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#BF293D">Back-end</ns0:text>
+  <ns0:text x="190.0" y="97" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="normal" fill="#8f9099">Python · Django · APIs</ns0:text>
+  <ns0:rect x="381" y="11" width="358" height="133" rx="12" fill="none" stroke="#2C52B3" stroke-width="2" />
+  <ns0:text x="560.0" y="73" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#BF293D">Full Stack</ns0:text>
+  <ns0:text x="560.0" y="97" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="normal" fill="#8f9099">Desenvolvimento Web</ns0:text>
+  <ns0:rect x="751" y="11" width="358" height="133" rx="12" fill="none" stroke="#2C52B3" stroke-width="2" />
+  <ns0:text x="930.0" y="73" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#BF293D">Database</ns0:text>
+  <ns0:text x="930.0" y="97" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="normal" fill="#8f9099">SQL · PostgreSQL · SQLite</ns0:text>
+  <ns0:rect x="11" y="156" width="358" height="133" rx="12" fill="none" stroke="#2C52B3" stroke-width="2" />
+  <ns0:text x="190.0" y="218" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#BF293D">Infrastructure</ns0:text>
+  <ns0:text x="190.0" y="242" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="normal" fill="#8f9099">Linux · Redes · Sistemas</ns0:text>
+  <ns0:rect x="381" y="156" width="358" height="133" rx="12" fill="none" stroke="#2C52B3" stroke-width="2" />
+  <ns0:text x="560.0" y="218" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#BF293D">Security</ns0:text>
+  <ns0:text x="560.0" y="242" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="normal" fill="#8f9099">Segurança da Informação</ns0:text>
+  <ns0:rect x="751" y="156" width="358" height="133" rx="12" fill="none" stroke="#2C52B3" stroke-width="2" />
+  <ns0:text x="930.0" y="218" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#BF293D">Automation</ns0:text>
+  <ns0:text x="930.0" y="242" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="normal" fill="#8f9099">Automação</ns0:text>
+</ns0:svg>
