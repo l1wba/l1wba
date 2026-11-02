@@ -132,7 +132,7 @@ Aprofundar conhecimentos em **desenvolvimento, infraestrutura e Segurança da In
 
 <h2 style="color:#FABF00;">Oportunidades</h2>
 
-`Trainee` · `Desenvolvedor Júnior` · `Helpdesk` · `Suporte` · `Infraestrutura`
+`Trainee` · `Desenvolvedor Júnior` · `Helpdesk` · `Suporte` · `Infraestrutura` · `Cybersegurança`
 
 <h2 style="color:#FABF00;">Contato</h2>
 
