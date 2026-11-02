@@ -1,17 +1,11 @@
-<table width="100%" border="0" cellpadding="12" cellspacing="0">
-<tr>
-<td width="45%" align="center" valign="middle">
-<img src="assets/sketch1.png" width="100%" alt="Ilustração de um robô"/>
-</td>
-<td width="60%" valign="middle">
+<img src="assets/sketch1.png" width="40%" align="left" alt="Ilustração de um robô"/>
+
 <h2><img src="assets/headings/about.svg" height="44" alt="Sobre mim"/></h2>
 <p>Meu nome é Luciano Rocha, atualmente sou <strong>estagiário</strong>, cursando <strong>Sistemas de Informação - UEMG</strong> e <strong>Segurança da Informação - UniRitter</strong>, e busco oportunidades como <strong>Trainee ou Desenvolvedor Júnior</strong>.</p>
 <p>Desenvolvo experiência por meio de projetos próprios e acadêmicos. Tenho <strong>5 anos de experiência profissional com Excel e Pacote Office</strong>, principalmente na automação de planilhas e geração de relatórios.</p>
 <p>Essa experiência despertou ainda mais meu interesse por tecnologia, automação e desenvolvimento de soluções, motivando minha evolução profissional na área de TI.</p>
 <p>Atualmente estou estudando <code>Banco de Dados</code> · <code>Redes</code> · <code>Infraestrutura</code> · <code>Segurança da Informação</code>.</p>
-</td>
-</tr>
-</table>
+<br clear="all"/>
 
 <h2><img src="assets/headings/interests.svg" height="32" alt="Áreas de interesse"/></h2>
 
@@ -27,9 +21,8 @@
 
 <h2><img src="assets/headings/projects.svg" height="32" alt="Projetos"/></h2>
 
-<table width="100%" border="0" cellpadding="12" cellspacing="0">
-<tr>
-<td width="55%" valign="middle">
+<img src="assets/sketch2.png" width="40%" align="right" alt="Sketch de robô"/>
+
 <h3>Em desenvolvimento</h3>
 <ul>
   <li>Landing page para clínica estética, com foco na apresentação de serviços.</li>
@@ -38,12 +31,7 @@
   <li>Ferramenta privada para automação de processos.</li>
   <li>Projeto privado para centralizar ferramentas e fluxos de trabalho.</li>
 </ul>
-</td>
-<td width="45%" align="center" valign="middle">
-<img src="assets/sketch2.png" width="90%" alt="Sketch de robô"/>
-</td>
-</tr>
-</table>
+<br clear="all"/>
 
 <h2><img src="assets/headings/goals.svg" height="32" alt="Objetivos"/></h2>
 
