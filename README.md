@@ -31,8 +31,6 @@
   <li>Projeto privado para centralizar ferramentas e fluxos de trabalho.</li>
 </ul>
 
-<p><em>Os projetos privados não são públicos por envolverem dados sensíveis de empresas.</em></p>
-
 <br clear="all"/>
 
 <h2><img src="assets/headings/goals.svg" height="32" alt="Objetivos"/></h2>
