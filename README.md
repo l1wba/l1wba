@@ -26,10 +26,13 @@
 <h3>Em desenvolvimento</h3>
 <ul>
   <li>Landing page para clínica estética, com foco na apresentação de serviços.</li>
-  <li>Aplicativo desktop para controle financeiro pessoal e acompanhamento de gastos.</li>
+  <li>Aplicativo web e desktop de finanças pessoais, desenvolvido com React, TypeScript, Tauri e Supabase, para registrar lançamentos, organizar categorias e acompanhar indicadores mensais.</li>
   <li>Ferramenta privada para automação de processos.</li>
   <li>Projeto privado para centralizar ferramentas e fluxos de trabalho.</li>
 </ul>
+
+<p><em>Os projetos privados não são públicos por envolverem dados sensíveis de empresas.</em></p>
+
 <br clear="all"/>
 
 <h2><img src="assets/headings/goals.svg" height="32" alt="Objetivos"/></h2>
@@ -42,16 +45,7 @@ Aprofundar conhecimentos em **desenvolvimento, infraestrutura e Segurança da In
 
 <h2><img src="assets/headings/contact.svg" height="32" alt="Contato"/></h2>
 
-<div align="center">
-
-<a href="mailto:lucianorchporto@gmail.com">
-  <img src="https://img.shields.io/badge/lucianorchporto%40gmail.com-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://www.linkedin.com/in/luciano-rocha31">
-  <img src="https://img.shields.io/badge/Luciano%20Rocha-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
+<div align="center"><a href="mailto:lucianorchporto@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" height="36" alt="Email"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/luciano-rocha31"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn"/></a>
 </div>
 
 <div align="center">
